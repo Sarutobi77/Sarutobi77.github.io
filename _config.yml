@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Abu Bakkar Aamir / Sarutobi's Site"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Abu Bakkar"
+description              : &description "Welcome to my page where you can learn more about me!! Glad you came!!"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Hey! I am a student at Virginia Tech. I am currently having fun studying Data Structures and Algorithms, and I plan to learn as much as I can this semester to land my internship and be a part of a meaningful team! Hope we both learn as we go on this Adventure! Let's make sure to have fun!!"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "VT Geniuses"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "abubakkar@vt.edu" 
 
   # Academic websites
   academia         : # URL

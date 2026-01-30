@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Abu Bakkar Aamir / Sarutobi's Site"
+title                    : "Abu Bakkar Aamir / Personal Blog"
 title_separator          : "-"
 name                     : &name "Abu Bakkar"
 description              : &description "Welcome to my page where you can learn more about me!! Glad you came!!"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Abu Bakkar Aamir"
   pronouns         : # example: "she/her"  
   bio              : "Hey! I am a student at Virginia Tech. I am currently having fun studying Data Structures and Algorithms, and I plan to learn as much as I can this semester to land my internship and be a part of a meaningful team! Hope we both learn as we go on this Adventure! Let's make sure to have fun!!"
   location         : "Blacksburg"
-  employer         : "VT Geniuses"
+  employer         : "VT Hokies"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "abubakkar@vt.edu" 
 
   # Academic websites
   academia         : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "Sarutobi77"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 

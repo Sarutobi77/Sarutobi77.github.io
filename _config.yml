@@ -27,10 +27,10 @@ author:
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Hey! I am a student at Virginia Tech. I am currently having fun studying Data Structures and Algorithms, and I plan to learn as much as I can this semester to land my internship and be a part of a meaningful team! Hope we both learn as we go on this Adventure! Let's make sure to have fun!!"
-  location         : "Earth"
-  employer         : "VT Geniuses and Hokies"
+  location         : "Blacksburg"
+  employer         : "VT Geniuses"
   uri              : # URL
-  email            : "abubakkar@vt.edu" 
+  email            : "none@example.org" 
 
   # Academic websites
   academia         : # URL
